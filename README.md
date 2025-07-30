@@ -32,10 +32,6 @@ This project is a frontend-only clone of the **Google Search landing page** that
 
 ---
 
-## 📸 Screenshots
-
-> *(Add if you want: Upload screenshots to GitHub and embed them below using markdown)*
-
 ```html
 <!-- Example image markdown -->
 <!-- ![Homepage Screenshot](./assets/google-clone-screenshot.png) -->
